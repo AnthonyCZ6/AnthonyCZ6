@@ -1,39 +1,40 @@
-# Anthony "Tony" C. Z. | Software Developer
-<p align="center">
-  <em>Desarrollador de software con experiencia en Java, Kotlin y C++, enfocado en la creación de sistemas y soluciones de software eficientes. Apasionado por el aprendizaje continuo y las arquitecturas escalables.</em>
-</p>
+# 👨‍💻 Anthony Castro Zarrabal
+
+
+### 📖 Sobre Mí
+
+Soy estudiante de **Técnico Superior Universitario en Desarrollo de Software Multiplataforma** en la Universidad Tecnológica Emiliano Zapata (UTEZ). Mi formación se especializa en la creación de soluciones escalables, integrando el desarrollo de aplicaciones modernas con una base sólida en infraestructura de redes y ecosistemas descentralizados.
+
+* 🔭 **Intereses actuales:** Arquitecturas de microservicios, contratos inteligentes en Web3 y optimización de redes empresariales.
+* 🛠️ **Metodología:** Aplicación de marcos de trabajo **Agile** para la gestión eficiente de proyectos y entrega de software de calidad.
+* 🎯 **Objetivo:** Desarrollar tecnología de alto impacto que para mejorar la transparencia y eficiencia en procesos digitales.
 
 ---
 
-### Sobre mí
+### 💻 Stack Tecnológico
 
-Mi enfoque principal es el desarrollo de software backend, donde me especializo en **Java** y **Kotlin**. Busco constantemente nuevos desafíos para expandir mis habilidades y contribuir a proyectos innovadores. Actualmente, estoy fortaleciendo mis conocimientos en **arquitecturas de microservicios** y **sistemas distribuidos** para construir aplicaciones más resilientes y de alto rendimiento.
-
----
-
-### 🛠️ Stack Tecnológico
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,php,python,html,javascript" />
-  </a>
-</p>
+| Categoría | Herramientas y Lenguajes |
+| :--- | :--- |
+| **Lenguajes** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) |
+| **Web Stack** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+| **Bases de Datos** | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Infraestructura** | ![Cisco](https://img.shields.io/badge/-Cisco_CCNA-049FD9?logo=cisco&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
 
 ---
 
-### 🚀 Proyectos Destacados
+### 📂 Proyectos Destacados
 
-| Proyecto                                               | Descripción                                                                 | Tecnologías Utilizadas                                                                                                     |
-| ------------------------------------------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **[Programas-Java](https://github.com/AnthonyCZ6/Programas-Java)** | Colección de algoritmos, estructuras de datos y aplicaciones de consola para practicar y demostrar lógica de programación en Java. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/> |
----
+#### 🏗️ **akkuea | DeFi Inmobiliaria**
+* **Descripción:** Plataforma en **Stellar** para la inversión inmobiliaria mediante tokenización fraccionada de activos.
+* **Tech Stack:** Stellar Network, Node.js, React.
+* **Logro:** Implementación de trazabilidad financiera transparente.
 
-###  Logros de GitHub
+#### 🛰️ **Zentrix | Gestión de Infraestructura**
+* **Descripción:** Sistema de gestión de inventario técnico diseñado para el control de infraestructura de red **Cisco**.
+* **Tech Stack:** Java, MySQL.
+* **Logro:** Automatización del control de activos de red.
 
-   <tr>
-    <td align="center" colspan="2">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=AnthonyCZ6&theme=tokyonight" alt="Trofeos de GitHub de AnthonyCZ6" />
-        </a>
-    </td>
-  </tr>
+#### 🌱 **EcoRuta_MX | Turismo Sostenible**
+* **Descripción:** DApp basada en **Soroban** que incentiva acciones ecológicas mediante recompensas en EcoTokens.
+* **Tech Stack:** Rust, Soroban SDK, TypeScript.
+* **Logro:** Diseño de un modelo de economía circular inmutable.
